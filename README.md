@@ -1,3 +1,5 @@
 RSA
 
-java - python 加解密
+java - python  DES
+
+This is pseudo code, you should changed this for use
